@@ -4,11 +4,11 @@
 Christmas Snow Globe Animation
 
 ### Group Members:
-Jason Lai (UID: 305426666)
+Jason Lai (UID: 123456789)
 
-Yuanyuan Xiong (UID: 405346495)
+Yuanyuan Xiong (UID: 123456789)
 
-Yingzhe Hu (UID: 505366341)
+Yingzhe Hu (UID: 123456789)
 
 ## Description:
 There will be a single scene depicting a snow globe with a Christmas tree and presents inside. It is snowing inside the snow globe.
